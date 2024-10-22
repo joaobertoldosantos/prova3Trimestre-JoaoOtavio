@@ -4,7 +4,9 @@ header {
 }
 
 main {
-
+    position: absolute;
+    margin-right: 30px;
+    padding: 10px;
 }
 
 .ParUm {
