@@ -10,7 +10,8 @@ main {
 }
 
 .ParUm {
-
+    font-size: larger;
+    color: blueviolet;
 }
 
 .ParDois {
@@ -22,5 +23,6 @@ div {
 } 
 
 footer {
-
+    background-color: black;
+    color: #fff;
 }
