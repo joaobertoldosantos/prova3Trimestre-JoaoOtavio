@@ -1,10 +1,13 @@
+body {
+    position: absolute;
+}
+
 header {
     background-color: black;
     color: #fff;
 }
 
 main {
-    position: absolute;
     margin-right: 30px;
     padding: 10px;
 }
